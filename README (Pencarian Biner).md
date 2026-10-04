@@ -1,10 +1,8 @@
-# 🔍 Proyek Algoritma: Binary Search (Pencarian Biner)
-
-Proyek sederhana ini mengimplementasikan algoritma **Binary Search** menggunakan bahasa Python untuk memenuhi projek **Desain Algoritma Lanjut (S2IF)**.
+# Proyek Algoritma: Binary Search (Pencarian Biner)
 
 ---
 
-## 📌 Penjelasan Singkat
+## Penjelasan Singkat
 Algoritma **Binary Search** digunakan untuk mencari posisi nilai target pada array yang sudah terurut (*sorted array*). Algoritma ini bekerja dengan membagi rentang pencarian menjadi dua bagian secara berulang hingga data ditemukan.
 
 * **Kompleksitas Waktu (*Time Complexity*)**: $\mathcal{O}(\log N)$
@@ -12,7 +10,7 @@ Algoritma **Binary Search** digunakan untuk mencari posisi nilai target pada arr
 
 ---
 
-## 📂 Struktur Repositori
+##  Struktur Repositori
 
 ```text
 .
@@ -22,7 +20,7 @@ Algoritma **Binary Search** digunakan untuk mencari posisi nilai target pada arr
 
 ---
 
-## 💻 Kode Program (`main.py`)
+##  Kode Program (`main.py`)
 
 ```python
 # main.py - Program Pencarian Biner (Binary Search)
